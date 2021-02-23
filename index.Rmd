@@ -1,0 +1,33 @@
+---
+title: "Eduardo Arrieta"
+image: "NUTRIA_COMPLETA.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/earrieta_"
+  - label: GitHub
+    url: "https://github.com/eduardo-arrieta"
+  - label: Email
+    url: "earrieta@lcg.unam.mx"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Soy Eduardo Arrieta, actualemnte estudiante de la carrera Licenciatura en Ciencias Genómicas.
+
+## Intereses
+
+Redes de regulación transcripcional, Bioinformática, Ictiología, Ecología 
+
+## Educación
+
+**UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO** |
+
+Estudiante de Licenciatura en Ciencias Genómicas
+
+## Experiencia
+
+Formandose
